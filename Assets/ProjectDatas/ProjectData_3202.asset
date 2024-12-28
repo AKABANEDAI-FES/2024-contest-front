@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09cef28b1a16547e6b2a6a962813806b, type: 3}
+  m_Name: ProjectData_3202
+  m_EditorClassIdentifier: 
+  projectNumber: 3202
+  organizationName: "\u5B9F\u7FD2 0401"
+  projectName: "AI \u751F\u304D\u7269\u56F3\u66F8\u9928"
+  icon: {fileID: 21300000, guid: 412725106b4e842388b1258304265f13, type: 3}

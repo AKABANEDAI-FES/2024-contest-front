@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 5fc8221ef4d9541f0a47e37e67fce23f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Zen Maru Gothic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 486eb16232a69424781adbb163ab9274, type: 3}
+  - {fileID: 12800000, guid: 89d7b84a11f304ee1ac4b3d8587cea51, type: 3}
+  - {fileID: 12800000, guid: 4fa09eb97a9d9400cb812776d60fc8ce, type: 3}
+  - {fileID: 12800000, guid: 824845b17c36d4884bc56881f7580e7c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
